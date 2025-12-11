@@ -125,9 +125,11 @@
   <ItemGroup>
     <ClCompile Include="PriorQue.cpp" />
     <ClCompile Include="PrQ.cpp" />
+    <ClCompile Include="TurSort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PrQ.h" />
+    <ClInclude Include="TurSort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
